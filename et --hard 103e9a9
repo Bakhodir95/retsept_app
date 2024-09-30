@@ -1,0 +1,21 @@
+[33mcommit e88456edf5e22e6b574a81a1811b46c98088b9aa[m[33m ([m[1;36mHEAD -> [m[1;32mFeruza[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/Feruza[m[33m)[m
+Merge: 9bc696a 103e9a9
+Author: FeruzaErgasheva <156280704+FeruzaErgasheva@users.noreply.github.com>
+Date:   Thu Aug 15 18:34:29 2024 +0500
+
+    Merge pull request #15 from 5-imtihon/Feruza
+    
+    home Screen and bottm navigation bar
+
+[33mcommit 103e9a975eb6f8073a5dc4dc4e92c1a824c9a00d[m
+Merge: b86ecd8 9bc696a
+Author: FeruzaErgasheva <156280704+FeruzaErgasheva@users.noreply.github.com>
+Date:   Thu Aug 15 18:34:17 2024 +0500
+
+    Merge branch 'main' into Feruza
+
+[33mcommit b86ecd8ba97caca16adfb08ab52febd4804c68ae[m
+Author: Feruza <ergashevaferuzabonuu@gmail.com>
+Date:   Thu Aug 15 18:31:10 2024 +0500
+
+    home Screen and bottm navigation bar

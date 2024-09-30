@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1012190066145",
+    "firebase_url": "https://retsept-app-default-rtdb.firebaseio.com",
+    "project_id": "retsept-app",
+    "storage_bucket": "retsept-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012190066145:android:39d919292e60273e564ea0",
+        "android_client_info": {
+          "package_name": "com.example.retsept_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEUhQiwnjMhN-SwmcxCgGY2eDbATOjM_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

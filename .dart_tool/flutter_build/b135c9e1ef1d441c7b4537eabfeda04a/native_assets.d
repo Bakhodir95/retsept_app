@@ -1,0 +1,1 @@
+ C:\\Users\\Bohodir\\Desktop\\retsept_app\\.dart_tool\\flutter_build\\b135c9e1ef1d441c7b4537eabfeda04a\\native_assets.yaml: 

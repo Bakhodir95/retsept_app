@@ -1,0 +1,1 @@
+ /home/victus/Desktop/retsept_app2/.dart_tool/flutter_build/2d3a59d47712f908b3561fd84274c477/native_assets.yaml: 

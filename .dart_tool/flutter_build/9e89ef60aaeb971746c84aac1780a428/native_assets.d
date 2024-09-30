@@ -1,0 +1,1 @@
+ /home/iskandar/Development/MY_IT/FLUTTER/EXAMS/5\ -\ OY/retsept_app2/.dart_tool/flutter_build/9e89ef60aaeb971746c84aac1780a428/native_assets.yaml: 

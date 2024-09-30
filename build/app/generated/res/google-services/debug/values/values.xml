@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://retsept-app-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1012190066145</string>
+    <string name="google_api_key" translatable="false">AIzaSyBEUhQiwnjMhN-SwmcxCgGY2eDbATOjM_c</string>
+    <string name="google_app_id" translatable="false">1:1012190066145:android:39d919292e60273e564ea0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBEUhQiwnjMhN-SwmcxCgGY2eDbATOjM_c</string>
+    <string name="google_storage_bucket" translatable="false">retsept-app.appspot.com</string>
+    <string name="project_id" translatable="false">retsept-app</string>
+</resources>
